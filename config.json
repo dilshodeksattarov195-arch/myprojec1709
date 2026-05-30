@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedncrypt",
+        "uuid": 3402619,
+        "checksum": "azxv8g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
